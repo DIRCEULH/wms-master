@@ -149,7 +149,7 @@ type RootStackParamList = {
         </ScrollView>   
         <View style={styles.version}>
             <Text style={styles.textVersion}>v.4.0.1 - {databaseConnected}</Text>
-            <Text style={styles.textVersion}>TI Blumenau Iluminação.</Text>
+            <Text style={styles.textVersion}></Text>
         </View>      
       </>
     );
