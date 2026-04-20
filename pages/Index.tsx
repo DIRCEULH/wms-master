@@ -111,6 +111,7 @@ function Index({ navigation }: Props) {
     );
 }
 
+
 const styles = StyleSheet.create({
     base: {
         marginTop: 5
