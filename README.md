@@ -27,10 +27,6 @@ Redução de erros operacionais;
 Agilidade na conferência de mercadorias;
 Garantia de consistência entre estoque físico e sistema.
 
-```bash
-PRODUÇÃO: SRV-WEB-INT: 192.168.1.4
-HOMOLOGAÇÃO: SRV-WEB-INT-HOMOL: 192.168.1.109
-```
 
 ## Foi utilizado as seguintes tecnologias:
 
@@ -84,3 +80,10 @@ A estrutura de arquivos está da seguinte maneira:
    ├── 🌐AddressPrint.tsx
 
 ```
+
+Copyright (c) 2026 Dirceu Heineck
+
+Todos os direitos reservados.
+
+Este software e os arquivos associados não podem ser utilizados, copiados,
+modificados ou distribuídos sem autorização expressa do autor.
